@@ -1,0 +1,53 @@
+.our-class 
+{
+    overflow: hidden;
+}
+.our-class> div 
+{
+    border:1px solid #d9dee1;
+    height: 350px;
+    width: 22%;
+    float: left;
+    margin-right: 39px;
+    text-align: center;
+}
+.our-class> div:last-child 
+{
+    margin-right: 0;
+}
+.our-class .card .card-img 
+{
+    height: 140px;
+}
+.our-class .card:nth-child(1) .card-img 
+{
+    background: red url('../../img/class_06.jpg') no-repeat center/cover;
+}
+.our-class .card:nth-child(2) .card-img 
+{
+    background: red url('../../img/class_08.jpg') no-repeat center/cover;
+}
+.our-class .card:nth-child(3) .card-img 
+{
+    background: red url('../../img/class_14.jpg') no-repeat center/cover;
+}
+.our-class .card:nth-child(4) .card-img 
+{
+    background:orange url("../../img/c3aed358-3966-4a68-853d-f944a74e662e.jpg") no-repeat center/cover;
+}
+.our-class .card .card-body h3
+{
+    margin-top: 10px;
+    font-size: 18px;
+}
+.our-class .card .card-body small 
+{
+    color: var(--brand-color);
+}
+.our-class .card .card-body a 
+{
+    margin-top:70px;
+    height: 40%;
+
+    
+}

@@ -1,0 +1,31 @@
+.yoga-product 
+{
+    color: #fff;
+    overflow: hidden;
+}
+.yoga-product li 
+{
+    height: 350px;
+    width: 22%;
+    float: left;
+    margin-right: 39px;
+    text-align: center;
+    color: #333;
+    font-size: 18px;
+}
+.yoga-product li:last-child 
+{
+    margin-right: 0;
+}
+.yoga-product li img 
+{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+

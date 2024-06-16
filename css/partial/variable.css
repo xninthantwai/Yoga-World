@@ -1,0 +1,27 @@
+:root 
+{
+    --brand-color:#f25c5c;
+    --bg-color:#fff;
+    --text-color: #5f5f5f;
+    --secondary-color:#333;
+
+    --title-font-family:"Lato";
+    --body-font-family:"Lato";
+
+    --font-size: 13px;
+    --title-font-size: 35px;
+}
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a 
+{
+    text-decoration: none;
+}
+h1 
+{
+    font-size: var(--title-font-size);
+}

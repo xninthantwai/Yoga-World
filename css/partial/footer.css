@@ -1,0 +1,17 @@
+footer 
+{
+    background-color: #000;
+}
+footer .container 
+{
+    overflow: hidden;
+    padding: 30px 0;
+}
+footer .copy 
+{
+    float: left;
+}
+footer .made 
+{
+    float: right;
+}
